@@ -70,7 +70,7 @@ namespace Calculadora
             this.linkGit.Size = new System.Drawing.Size(55, 13);
             this.linkGit.TabIndex = 6;
             this.linkGit.TabStop = true;
-            this.linkGit.Text = "linkLabel1";
+            this.linkGit.Text = "https://github.com/naah-m/Calculadora-Semi-Cientifica";
             // 
             // AboutForm
             // 
